@@ -1,0 +1,16 @@
+body{
+    font-family: "Arial Narrow";
+    font-size: 1.2em;
+    background-color: dimgrey;
+    color: white;
+    width: 100%;
+    min-width: 25%;
+}
+
+.contenedor_principal{
+    width:50%;
+    border:3px solid yellow;
+}
+.container{
+    
+}
